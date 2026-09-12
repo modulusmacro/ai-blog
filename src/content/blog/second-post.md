@@ -1,16 +1,140 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+title: 'Microsoft Fabric & Power BI: The New Era of Asset Management Reporting'
+description: 'A comprehensive overview of how Microsoft Fabric, combined with Power BI, is reshaping the landscape of ISO 55000–aligned Asset Management reporting.'
+pubDate: 'Sep 12 2026'
+heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+The convergence of **Microsoft Fabric**, **Power BI**, and modern **data governance practices** is redefining how organisations manage, monitor, and optimise physical assets.  
+This page demonstrates the structure and depth of a full‑length article explaining how these technologies are transforming ISO 55000–aligned reporting.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## Executive Summary
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Asset‑intensive industries — rail, mining, utilities, manufacturing — are undergoing a rapid shift toward **AI‑enabled operational intelligence**.  
+Microsoft Fabric provides a unified analytics foundation, while Power BI delivers the visualisation layer that converts raw operational data into **actionable insights**.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Together, they enable:
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+- Real‑time asset health monitoring  
+- Predictive maintenance modelling  
+- Standardised ISO 55000 governance reporting  
+- Cross‑functional decision alignment  
+- Enterprise‑wide data consistency  
+
+---
+
+## The Shift Toward Unified Data Platforms
+
+### Why Fabric Matters
+
+Microsoft Fabric consolidates:
+
+- Data engineering  
+- Data science  
+- Real‑time analytics  
+- Data governance  
+- Business intelligence  
+
+into a **single SaaS platform**.
+
+This eliminates the traditional fragmentation between:
+
+- CMMS  
+- ERP  
+- SCADA  
+- IoT telemetry  
+- Reliability databases  
+- Excel‑based reporting  
+
+### Fabric’s Lakehouse Architecture
+
+Fabric’s *OneLake* architecture allows asset data to be stored once and used everywhere:
+
+- Maintenance logs  
+- Work orders  
+- Failure codes  
+- Condition monitoring  
+- Sensor streams  
+- Inspection data  
+- Financial asset registers  
+
+All become part of a **single governed data estate**.
+
+---
+
+## Power BI as the Reporting Frontline
+
+Power BI acts as the **visualisation and decision layer** for Fabric.
+
+### Key Advantages
+
+- Consistent KPI definitions  
+- Automated refresh cycles  
+- Row‑level security for governance  
+- Executive dashboards  
+- Operational drill‑downs  
+- Mobile‑ready reporting for field teams  
+
+### Example Asset KPIs
+
+| KPI Category | Description | Example Metric |
+|-------------|-------------|----------------|
+| Reliability | Measures asset performance | MTBF, MTTR |
+| Maintenance | Tracks work execution | PM Compliance |
+| Financial | Supports ISO 55000 value framework | Lifecycle Cost |
+| Risk | Identifies critical exposures | Asset Risk Score |
+
+---
+
+## Real‑Time Asset Monitoring
+
+### Streaming Data with Fabric Real‑Time Analytics
+
+Fabric’s real‑time analytics layer allows ingestion of:
+
+- Vibration data  
+- Temperature readings  
+- Pressure anomalies  
+- GPS tracking  
+- Energy consumption  
+
+Power BI then visualises these streams through:
+
+- Live dashboards  
+- Alerts  
+- Threshold‑based triggers  
+- Predictive trend lines  
+
+---
+
+## Predictive Maintenance with AI Models
+
+### How AI Enhances Asset Management
+
+Fabric integrates:
+
+- AutoML  
+- Python notebooks  
+- Spark compute  
+- ML pipelines  
+
+to build models that predict:
+
+- Failure likelihood  
+- Remaining useful life (RUL)  
+- Optimal maintenance intervals  
+- Cost‑risk trade‑offs  
+
+### Example Code Block (Dummy)
+
+```python
+# Example: Predictive maintenance model pipeline
+from fabric.ml import AutoML
+
+model = AutoML.train(
+    data=asset_failure_history,
+    target="failure_event",
+    time_series=True
+)
+
+model.deploy("asset_rul_prediction")
