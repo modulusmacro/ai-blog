@@ -6,3 +6,4 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 AI is coming!!
+Hrihan 
